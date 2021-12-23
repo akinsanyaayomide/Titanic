@@ -1,3 +1,3 @@
 # Titanic
 
-My Implementation of the Titanic cDataset competition on Kaggle
+My Implementation of the Titanic Dataset competition on Kaggle
